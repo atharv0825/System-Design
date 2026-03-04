@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.design.pattern.Singleton;
 
 public class Main {
     public static void main(String [] args){
